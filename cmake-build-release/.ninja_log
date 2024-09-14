@@ -1,0 +1,19 @@
+# ninja log v5
+93	4142	6867396491001784	CMakeFiles/P2PClient.dir/common/connection.cpp.obj	594a4aea36bd1f22
+53	4155	6867396491021813	CMakeFiles/P2PServer.dir/common/connection.cpp.obj	6876784d40fb9d24
+1	5112	6867396500741821	CMakeFiles/P2PServer.dir/server/servermain.cpp.obj	a43c55dfcd2be865
+7	4875	6867398095977620	CMakeFiles/P2PClient.dir/client/client.cpp.obj	e83639155ce9a0bf
+18	5087	6867396500471819	CMakeFiles/P2PServer.dir/server/server.cpp.obj	b162d44edae3de3c
+5113	6303	6867396512631831	P2PServer.exe	33a6b778158cc15
+32	7079	6867396520401774	CMakeFiles/P2PClient.dir/client/clientmain.cpp.obj	d40a4bf22a0144e6
+174	7093	6867396520561790	CMakeFiles/P2PClient.dir/client/clientfunction.cpp.obj	f084f94da55de83a
+4876	5726	6867398104397644	P2PClient.exe	46c268c136d126b2
+24	3300	6867523715941091	CMakeFiles/P2PClient.dir/common/connection.cpp.obj	c8bcd02a9f5db397
+18	3303	6867523715950846	CMakeFiles/P2PServer.dir/common/connection.cpp.obj	97298b8571cb467a
+11	3545	6867523718401851	CMakeFiles/P2PServer.dir/server/servermain.cpp.obj	f23f201a87ec74ad
+4	3563	6867523718597153	CMakeFiles/P2PServer.dir/server/server.cpp.obj	45e2afa33793c141
+3563	4008	6867523723030452	P2PServer.exe	33a6b778158cc15
+43	4530	6867523728254726	CMakeFiles/P2PClient.dir/client/client.cpp.obj	884d5c5af4092c42
+81	4604	6867523728987145	CMakeFiles/P2PClient.dir/client/clientmain.cpp.obj	c93b99717b585e5d
+1291	4621	6867523729153116	CMakeFiles/P2PClient.dir/client/clientfunction.cpp.obj	a85fdb67f61c437
+4621	4996	6867523732902863	P2PClient.exe	46c268c136d126b2
